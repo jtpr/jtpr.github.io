@@ -10,4 +10,4 @@ While all files inside this folder get rendered and can be linked, only those no
 
 Also, backlinks (pages with a link to this page) are listed down. Check that one to see how markdown styles get rendered in this theme.
 
-This is Joey [[Testing | testing my new page]]. 
+This is Joey [[Testing]]. 
