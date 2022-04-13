@@ -1,8 +1,13 @@
 ---
-title : Welcome to the garden
+title : Welcome to Ravenna
 notetype : feed
 date : 15-04-2021
 ---
+
+Ravenna is quite a beautiful place is it not? All that byzantine-ness? 
+
+I do quite like the [[Pantheon]] as well. 
+
 
 This is a sample atomic note. The file location is `_notes/Public`, and it appears on the note feed. `_notes` is the Obsidian Vault directory. _Check  <a href="../posts/how-to"> how to </a> to know more._ 
 
