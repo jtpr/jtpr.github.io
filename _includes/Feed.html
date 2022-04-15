@@ -39,6 +39,7 @@
 <script type="text/javascript" src="/assets/js/vendor/lunr.min.js"></script>
 <script src="/assets/js/Search.js"></script>
 {%- endif -%}
+
 <!-- feed with filter-->
 {% assign note_items = site.notes | sort: "date" | reverse %}
 {% for note_items in note_items %}
